@@ -1,0 +1,1 @@
+Using const and void functions could be useful for displaying information, manipulating other variables using the given constants as well.
